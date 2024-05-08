@@ -1,0 +1,15 @@
+{
+  "name": "planetsproject",
+  "version": "1.0.0",
+  "description": "planets project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "AMJ",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.5"
+  }
+}
